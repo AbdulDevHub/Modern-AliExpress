@@ -19,6 +19,8 @@ export default defineNuxtConfig({
   },
   app: {
     head: {
+      title: "Modern AliExpress",
+      titleTemplate: "Modern AliExpress",
       script: [
         {
           src: "https://js.stripe.com/v3/",
