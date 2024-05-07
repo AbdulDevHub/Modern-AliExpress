@@ -1,8 +1,8 @@
 # Modern AliExpress (AliExpress Clone)
 
-This project is a sleek, dark, and modern website built with Next.js 14, GSAP, Prismic, Tailwind, and TypeScript. It's styled in the same vein as Linear, AuthKit, Raycast, Clerk, and many more!
+A compact yet feature-rich e-commerce app built with JavaScript, Vue.js, Nuxt.js, Prisma, and Supabase. It offers secure login via Google and GitHub OAuth, and safe transactions through Stripe. The UI, enhanced with Tailwind CSS, offers a modern and improved shopping experience.
 
-<a href="https://glisten-ai-dark.vercel.app/" target="_blank" rel="noreferrer"> 
+<a href="https://modern-aliexpress.vercel.app/" target="_blank" rel="noreferrer"> 
     <img width="400" src="https://user-images.githubusercontent.com/108229029/234481659-ede8c034-b085-4a45-8d80-6271c6050474.png">
     <img width="400" src="https://user-images.githubusercontent.com/108229029/234481744-e3b237b3-0621-46ab-9494-60ac65b84d91.png">
     <img width="400" src="https://user-images.githubusercontent.com/108229029/234481876-dcd29b14-70c4-41d4-b29a-6c27937f68b2.png">
